@@ -1,0 +1,7 @@
+D:\Programming\dotnet\vm-test\vm-test\bin\Publish\vm-test.exe
+D:\Programming\dotnet\vm-test\vm-test\bin\Publish\appsettings.Development.json
+D:\Programming\dotnet\vm-test\vm-test\bin\Publish\appsettings.json
+D:\Programming\dotnet\vm-test\vm-test\bin\Publish\vm-test.dll
+D:\Programming\dotnet\vm-test\vm-test\bin\Publish\vm-test.deps.json
+D:\Programming\dotnet\vm-test\vm-test\bin\Publish\vm-test.runtimeconfig.json
+D:\Programming\dotnet\vm-test\vm-test\bin\Publish\vm-test.pdb
